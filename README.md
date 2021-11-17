@@ -8,5 +8,5 @@ Back-end : PHP
 
 Database : MySQL
 
-#Flow of the Website:
+## Flow of the Website:
  Home Page > View all customers > Select and View one Customer > Select reciever >Transfer Money > View all Users > View Transfer History
